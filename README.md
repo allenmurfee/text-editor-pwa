@@ -12,7 +12,9 @@ No installation is required for this application. Just use this link:
 
 After visiting the above Heroku link, simply type what you'd like in the text editor. It will save automatically, even if offline. You can also download the application as a PWA using the "install" button.
 
-![Project screenshot](./assets/screenshot2.png)
+![Project screenshot 1](./assets/screenshot1.png)
+
+![Project screenshot 2](./assets/screenshot2.png)
 
 ## Credits
 
