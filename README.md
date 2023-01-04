@@ -6,7 +6,7 @@ This application utlizes webpack, a service worker file, and Manifest JSON to ma
 
 ## Installation
 
-No installation is required for this application. Just use this link: 
+No installation is required for this application. Just use this link: https://pacific-castle-87959.herokuapp.com/ 
 
 ## Usage
 
@@ -18,7 +18,7 @@ After visiting the above Heroku link, simply type what you'd like in the text ed
 
 ## Credits
 
-No outside contributions.
+AskBCS for Heroku questions.
 
 ## License
 
